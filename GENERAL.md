@@ -1,6 +1,6 @@
 # General AI Agents Information and Musings
 
-## New Technologies to build solutions
+## Technologies
 
 - **A2A**
   - **Name:** Agent2Agent
@@ -37,7 +37,7 @@
   - **Source:** <https://www.python.org/>
   - **Documentation:** <https://docs.python.org/3/>
 
-## Large Language Model (LLM) AI Agents
+## Large Language Models (LLM)
 
 - **Google Gemini**
   - **Name:** Google Gemini
@@ -57,7 +57,7 @@
   - **Created By:** OpenAI
   - **Source:** <https://openai.com/gpt-4>
 
-## Examples of using LLMs in Coding Projects
+## Example Projects
 
 - **YAAP**
   - **Name:** Yet Another Agent Protocol
